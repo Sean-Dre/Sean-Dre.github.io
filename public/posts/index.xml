@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Sean Andre</title>
+    <link>https://seandre.github.io/posts/</link>
+    <description>Recent content in Posts on Sean Andre</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Jul 2024 22:51:21 -0700</lastBuildDate>
+    <atom:link href="https://seandre.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://seandre.github.io/posts/first-post/</link>
+      <pubDate>Mon, 08 Jul 2024 22:51:21 -0700</pubDate>
+      <guid>https://seandre.github.io/posts/first-post/</guid>
+      <description>I think we are supposed to say something like Hello World!</description>
+    </item>
+  </channel>
+</rss>

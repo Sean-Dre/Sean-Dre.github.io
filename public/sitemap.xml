@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://seandre.github.io/posts/first-post/</loc>
+    <lastmod>2024-07-08T22:51:21-07:00</lastmod>
+  </url><url>
+    <loc>https://seandre.github.io/posts/</loc>
+    <lastmod>2024-07-08T22:51:21-07:00</lastmod>
+  </url><url>
+    <loc>https://seandre.github.io/</loc>
+    <lastmod>2024-07-08T22:51:21-07:00</lastmod>
+  </url><url>
+    <loc>https://seandre.github.io/about/</loc>
+    <lastmod>2024-07-08T23:28:59+00:00</lastmod>
+  </url><url>
+    <loc>https://seandre.github.io/categories/</loc>
+  </url><url>
+    <loc>https://seandre.github.io/tags/</loc>
+  </url>
+</urlset>
